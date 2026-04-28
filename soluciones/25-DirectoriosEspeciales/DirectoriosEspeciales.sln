@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectoriosEspeciales", "DirectoriosEspeciales\DirectoriosEspeciales.csproj", "{3AD8B25F-C98C-4DF7-B229-7CB14D3EADCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AD8B25F-C98C-4DF7-B229-7CB14D3EADCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AD8B25F-C98C-4DF7-B229-7CB14D3EADCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AD8B25F-C98C-4DF7-B229-7CB14D3EADCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AD8B25F-C98C-4DF7-B229-7CB14D3EADCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
